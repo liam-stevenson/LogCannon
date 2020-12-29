@@ -36,5 +36,4 @@ After cleaning you can use the cannon.py to run the cannon with your new file lo
 
 ## TODO 
 1. Tidy up the variable names!
-
-1. Support more file types
+2. Support more file types
