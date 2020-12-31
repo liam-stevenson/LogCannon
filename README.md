@@ -37,3 +37,4 @@ After cleaning you can use the cannon.py to run the cannon with your new file lo
 ## TODO 
 1. Tidy up the variable names!
 2. Support more file types
+3. If the event is CEF, change the values of the date and time fields
